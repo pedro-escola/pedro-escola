@@ -2,3 +2,5 @@
 eu programo uns coisa ai, provavelmente, aqui é só coisa da escola <br><br>
 foto da minha cara: <br>
 ![Seu Madruga](/img/seumadruga.jpeg "meu rosto real")
+
+tudo que eu faço é licensiado na MIT License, que eu acho só significa que tu pode fazer o que você quiser com meus coisa, nao sei :þ
